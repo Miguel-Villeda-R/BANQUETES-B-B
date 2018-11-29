@@ -1949,6 +1949,8 @@ pre code {
     width: 75%;
   }
   .col-md-8 {
+    display: flex;
+    flex-direction: row;
     width: 66.66666667%;
   }
   .col-md-7 {
